@@ -25,7 +25,7 @@ Frappe Wiki is an Open Source [Wiki](https://en.wikipedia.org/wiki/Wiki) app bui
 
 ```bash
 # get app
-$ bench get-app https://github.com/frappe/wiki
+$ bench get-app https://github.com/EzzaddeenAlhamzi/wiki.git
 
 # install on site
 $ bench --site sitename install-app wiki
